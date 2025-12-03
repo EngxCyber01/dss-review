@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Backup files
+*_backup.html
+index_new.html
+
+# Python scripts (keep only HTML/CSS/JS)
+*.py
+
+# PDFs (optional - comment out if you want to include them)
+pdfs/
+
+# System files
+.DS_Store
+Thumbs.db
